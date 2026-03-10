@@ -1,4 +1,3 @@
 learn/
-.env
+.env.app
 requirements.txt
-bash.exe.stackdump

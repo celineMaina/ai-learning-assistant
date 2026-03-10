@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import asyncpg
 
 
-load_dotenv()
+load_dotenv('.env.app')
 
 DB_URL = os.getenv('DB_URL')
 
